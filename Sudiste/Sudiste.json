@@ -46,5 +46,19 @@
 			
 			"Skin": "HyperBeast_Diffuse_sudiste.png"
 		}
+    },
+	"OctaneNoir Sudiste": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_sudiste.png",
+			
+			"Skin": "octane_noir_sudiste.png"
+		}
     }
 }
