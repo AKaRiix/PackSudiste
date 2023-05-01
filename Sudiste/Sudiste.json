@@ -4,7 +4,7 @@
 		"BodyID": 4284,
 		"SkinID": 0,
 		"Chassis": {
-			"Diffuse": "Chassis_Grain_B.png"
+			"Diffuse": "Chassis_Grain_D.png"
 		},
 		"Body": {
 			"Diffuse": "fen_diffuse_sudiste.png",
