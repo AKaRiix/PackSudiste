@@ -1,0 +1,50 @@
+{
+
+	"FennecBlanche Sudiste": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_sudiste.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecJaune Sudiste": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_sudiste.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecNoir Sudiste": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_sudiste.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"Octane Sudiste": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_sudiste.png",
+			
+			"Skin": "HyperBeast_Diffuse_sudiste.png"
+		}
+    }
+}
